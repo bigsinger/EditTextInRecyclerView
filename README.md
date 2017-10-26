@@ -1,0 +1,3 @@
+# EditTextInRecyclerView
+
+![](./release/screenshot.png)
